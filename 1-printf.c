@@ -1,4 +1,4 @@
-"main.h"
+#include "main.h"
 
 /**
  * _printf - prints and input into the standard output
